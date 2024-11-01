@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TSA Commerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-21 17:51+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Team TSA Commerce <hola@tsacommerce.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: vendors\n"
+"X-Poedit-SearchPathExcluded-2: gulpfile.js\n"
+"X-Poedit-SearchPathExcluded-3: package.json\n"
+"X-Poedit-SearchPathExcluded-4: README.txt\n"
+"X-Poedit-SearchPathExcluded-5: assets\n"
+
+#: lib/cpt.php:7
+msgid "Products"
+msgstr "Productos"
+
+#: lib/cpt.php:8 lib/cpt.php:10 lib/cpt.php:36
+msgid "Product"
+msgstr "Producto"
+
+#: lib/cpt.php:11
+msgid "Product Archives"
+msgstr "Archivo de producto"
+
+#: lib/cpt.php:12
+msgid "Product Attributes"
+msgstr "Atributos del producto"
+
+#: lib/cpt.php:13
+msgid "Parent Product:"
+msgstr "Producto padre:"
+
+#: lib/cpt.php:14
+msgid "All Products"
+msgstr "Todos los productos"
+
+#: lib/cpt.php:15
+msgid "Add New Product"
+msgstr "Añadir nuevo producto"
+
+#: lib/cpt.php:16
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: lib/cpt.php:17
+msgid "New Product"
+msgstr "Nuevo producto"
+
+#: lib/cpt.php:18
+msgid "Edit Product"
+msgstr "Editar producto"
+
+#: lib/cpt.php:19
+msgid "Update Product"
+msgstr "Actualizar producto"
+
+#: lib/cpt.php:20
+msgid "View Product"
+msgstr "Ver producto"
+
+#: lib/cpt.php:21
+msgid "View Products"
+msgstr "Ver productos"
+
+#: lib/cpt.php:22
+msgid "Search Product"
+msgstr "Buscar producto"
+
+#: lib/cpt.php:23
+msgid "Not found"
+msgstr "No se encontraron productos."
+
+#: lib/cpt.php:24
+msgid "Not found in Trash"
+msgstr "No se encontraron producto en la papelera."
+
+#: lib/cpt.php:25
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: lib/cpt.php:26
+msgid "Set featured image"
+msgstr "Añadir imagen destacada"
+
+#: lib/cpt.php:27
+msgid "Remove featured image"
+msgstr "Eliminar imagen destacada"
+
+#: lib/cpt.php:28
+msgid "Use as featured image"
+msgstr "Usar como imagen destacada"
+
+#: lib/cpt.php:29
+msgid "Insert into product"
+msgstr "Insertar en el producto"
+
+#: lib/cpt.php:30
+msgid "Uploaded to this product"
+msgstr "Subido a este producto"
+
+#: lib/cpt.php:31
+msgid "Products list"
+msgstr "Lista de productos"
+
+#: lib/cpt.php:32
+msgid "Products list navigation"
+msgstr "Lista de navegación de productos"
+
+#: lib/cpt.php:33
+msgid "Filter products list"
+msgstr "Filtrar lista de productos"
+
+#: lib/cpt.php:37
+msgid "TSA Commerce Product"
+msgstr "Producto TSA Commerce"
+
+#: lib/cpt.php:64 lib/cpt.php:66
+msgid "Categories"
+msgstr "Categorías"
+
+#: lib/cpt.php:65
+msgid "Category"
+msgstr "Categoría"
+
+#: lib/cpt.php:67
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: lib/cpt.php:68
+msgid "Parent Category"
+msgstr "Categoría padre"
+
+#: lib/cpt.php:69
+msgid "Parent Category:"
+msgstr "Categoría padre:"
+
+#: lib/cpt.php:70
+msgid "New Category Name"
+msgstr "Nuevo nombre de categoría"
+
+#: lib/cpt.php:71
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: lib/cpt.php:72
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+#: lib/cpt.php:73
+msgid "Update Category"
+msgstr "Actualizar categoría"
+
+#: lib/cpt.php:74
+msgid "View Category"
+msgstr "Ver categoría"
+
+#: lib/cpt.php:75
+msgid "Separate categories with commas"
+msgstr "Separar categorías con comas"
+
+#: lib/cpt.php:76
+msgid "Add or remove categories"
+msgstr "Añadir o eliminar categorías"
+
+#: lib/cpt.php:77
+msgid "Choose from the most used"
+msgstr "Elige entre los más utilizados"
+
+#: lib/cpt.php:78
+msgid "Popular Categories"
+msgstr "Categorías populares"
+
+#: lib/cpt.php:79
+msgid "Search Categories"
+msgstr "Buscar categorías"
+
+#: lib/cpt.php:80
+msgid "Not Found"
+msgstr "No se encontraron categorías."
+
+#: lib/cpt.php:81
+msgid "No categories"
+msgstr "Sin categorías"
+
+#: lib/cpt.php:82
+msgid "Categories list"
+msgstr "Lista de categorías"
+
+#: lib/cpt.php:83
+msgid "Categories list navigation"
+msgstr "Lista de navegación de categorías"
+
+#: lib/custom-fields.php:7
+msgid "Affiliate product"
+msgstr "Producto de afiliación"
+
+#: lib/custom-fields.php:11
+msgid "Product URL"
+msgstr "URL del Producto"
+
+#: lib/custom-fields.php:14
+msgid "Enter the product URL."
+msgstr "Introduce la URL del producto"
+
+#: lib/custom-fields.php:17
+msgid "E.g. http://www.amazon.com/dp/XXXXXXXXXX/"
+msgstr "Ej. http://www.amazon.com/dp/XXXXXXXXXX/"
+
+#: lib/custom-fields.php:25
+msgid "Show price"
+msgstr "Mostrar precio"
+
+#: lib/custom-fields.php:28
+msgid ""
+"Mark if you prefer to show the price of the product or not, by default "
+"Check.\n"
+"\n"
+"Check: The price of the product and a \"Buy\" button will be displayed.\n"
+"No check: A \"See price\" button will be displayed"
+msgstr ""
+"Marca si prefieres mostrar el precio del producto o no, por defecto Check.\n"
+"\n"
+"Check: Se mostrará el precio del producto y un botón “Comprar”\n"
+"No check: Se mostrará un botón “Ver precio”"
+
+#: lib/custom-fields.php:37
+msgid "Current price"
+msgstr "Precio actual"
+
+#: lib/custom-fields.php:40
+msgid "Enter the current price of the product."
+msgstr "Introduce el precio actual del producto."
+
+#: lib/custom-fields.php:54
+msgid "E.g. $19.92"
+msgstr "Ej. 19.92€"
+
+#: lib/custom-fields.php:62
+msgid "Image URL"
+msgstr "URL de la imagen"
+
+#: lib/custom-fields.php:65
+msgid "Enter the URL of the product image."
+msgstr "Introduce la URL de la imagen del producto."
+
+#: lib/custom-fields.php:68
+msgid "E.g. https://images-na.ssl-images-amazon.com/images/I/61aN%2BSE-F9L.jpg"
+msgstr "Ej. https://images-na.ssl-images-amazon.com/images/I/61aN%2BSE-F9L.jpg"
+
+#: lib/custom-fields.php:101
+msgid "Image"
+msgstr "Imagen"
+
+#: lib/custom-fields.php:104
+msgid "Select an image that represents your category."
+msgstr "Selecciona una imagen que represente tu categoría."
+
+#: lib/custom-fields.php:111
+msgid "Category page"
+msgstr "Página de la categoría"
+
+#: lib/custom-fields.php:114
+msgid "Select the page to link your category to."
+msgstr "Selecciona la página a la que debe enlazar tu categoría."
+
+#: lib/options-page.php:19 lib/options-page.php:20 lib/options-page.php:54
+msgid "Settings"
+msgstr "Ajustes"
+
+#: lib/options-page.php:31
+msgid "Additional configuration"
+msgstr "Configuración adicional"
+
+#: lib/options-page.php:32
+msgid ""
+"From here you can add your Amazon Associates ID to make it easier to "
+"generate urls."
+msgstr ""
+"Desde aquí puede agregar su ID de Amazon Associates para facilitar la "
+"generación de urls."
+
+#: lib/options-page.php:61
+msgid "Amazon Associates ID"
+msgstr "ID de Amazon Afiliados"
+
+#: lib/options-page.php:69
+msgid "Show price?"
+msgstr "¿Mostrar precio?"
+
+#: lib/options-page.php:103
+msgid "Only in products with price"
+msgstr "Sólo en productos con precio"
+
+#: lib/options-page.php:105
+msgid "No"
+msgstr "No"
+
+#: lib/shortcode.php:66
+msgid "View product"
+msgstr "Ver producto"
+
+#: lib/shortcode.php:68
+msgid "View price"
+msgstr "Mostrar precio"
+
+#: lib/shortcode.php:136 lib/shortcode.php:195
+msgid "View products"
+msgstr "Ver productos"
+
+#~ msgid "TSA Commerce"
+#~ msgstr "TSA Commerce"
